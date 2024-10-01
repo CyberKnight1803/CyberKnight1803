@@ -6,7 +6,9 @@ Hi, I am Omkar Pitale and I am an ML Engineer <img src="https://media.giphy.com/
 * 👨🏻‍🎓 In my final year of MS CS - ML Track @ Columbia University.
 * 💼 ML Engineer Intern @ GlobalLogic (Hitachi Group).
 * 🌱 Exploring NLP, GenAI, LLM Agents, RAG systems, MLOps and Backend Engineering.
-* ⚡️ In my free time I read tech articles 📄 and play badminton 🏸. 
+* ⚡️ In my free time I read tech articles 📄 and play badminton 🏸.
+
+To reach me contact: [omkar.pitale@columbia.edu](mailto:omkar.pitale@columbia.edu?subject=[GitHub]: )
 
 
 ## ⚙️ Tech Stack 
