@@ -1,4 +1,8 @@
-## Hi there 👋, I'm Omkar Pitale
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Omkar Pitale
+
+## ℹ️ About Me
+Hi, I am Omkar Pitale and I am in my final year of MS CS - ML Track @ Columbia University, exploring NLP, Generative AI and Backend Engineering.
+
 
 <!--
 **CyberKnight1803/CyberKnight1803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
